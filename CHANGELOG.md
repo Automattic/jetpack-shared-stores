@@ -11,3 +11,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add dedicated package for the externalized `jetpack-modules` and `wordpress-com/plans` data stores.
+
+### Changed
+- Update package dependencies.

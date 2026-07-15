@@ -15,6 +15,10 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+## [0.1.5] - 2026-07-13
+### Changed
+- Update dependencies.
+
 ## [0.1.4] - 2026-07-09
 ### Changed
 - Update dependencies.
@@ -39,7 +43,8 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies. [#49757]
 
-[0.2.0-alpha]: https://github.com/Automattic/jetpack-shared-stores/compare/v0.1.4...v0.2.0-alpha
+[0.2.0-alpha]: https://github.com/Automattic/jetpack-shared-stores/compare/v0.1.5...v0.2.0-alpha
+[0.1.5]: https://github.com/Automattic/jetpack-shared-stores/compare/v0.1.4...v0.1.5
 [0.1.4]: https://github.com/Automattic/jetpack-shared-stores/compare/v0.1.3...v0.1.4
 [0.1.3]: https://github.com/Automattic/jetpack-shared-stores/compare/v0.1.2...v0.1.3
 [0.1.2]: https://github.com/Automattic/jetpack-shared-stores/compare/v0.1.1...v0.1.2

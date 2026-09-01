@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Declare react-dom, which @wordpress/element now requires as a peer dependency.
+- Update package dependencies.
 
 ## [0.2.4] - 2026-08-06
 ### Changed

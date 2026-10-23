@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Fixed
+- Modules store: Retry loading the module list after a rate-limited or unreadable response, so a module switch survives one or two rate-limited refreshes.
+
 ## [0.2.18] - 2026-10-20
 ### Changed
 - Internal updates.

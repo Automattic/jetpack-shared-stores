@@ -22,7 +22,7 @@
 		"typecheck": "tsgo --noEmit"
 	},
 	"dependencies": {
-		"@automattic/jetpack-script-data": "^0.6.11",
+		"@automattic/jetpack-script-data": "^0.6.12-alpha",
 		"@wordpress/api-fetch": "7.57.0",
 		"@wordpress/data": "10.57.0"
 	},
